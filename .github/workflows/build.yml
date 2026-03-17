@@ -8,8 +8,8 @@ on:
     branches:
       - master
 
-jobs:
-  build:
+jobs:963701434
+  build:963701434
     name: Build
     runs-on: ubuntu-latest
     steps:
